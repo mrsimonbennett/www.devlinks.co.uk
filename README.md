@@ -1,2 +1,796 @@
-www.devlinks.co.uk
-==================
+##Collection of Web Development Links, Services, Tools & Resources. Open Web Utilities. JavaScript, User Experience (UX), Design, CSS, SaaS, Full Stack Engineering, Security, Social, Tinkering.
+
+![...](http://f.cl.ly/items/0g2j341r3W1j1v3k1z19/dev.jpg "...")
+
+###A curated, opinionated collection of links
+
+WebDev Links is an opinionated collection of links related to Productivity, SaaS, Web Development, Full-Stack Development, Tinkering, and Hacking the Open Web. It is a collection of resources designed to get things done. Think of it as a knowledge transfer, and a product of the [Hacker Gift Culture](http://www.catb.org/esr/writings/homesteading/homesteading/ar01s06.html).
+
+Here is a curated, (and slightly opinionated) collection of URLs.
+
+Common responses for the list are:
+
+__*"But the links have no description"*__
+
+They are (at least) categorized. The easy option would be to glob these URLs into one nasty list. If you like descriptions, I can only contribute so much to the Open Web. Anyways, metadata can prove to be unreliable. Machine readable descriptions for some sites can sound skewed. An example would be: "This site is the greatest site in the whole world. We have lots of info on this page. Please read more!". That is hardly helpful! I kindly ask you to open a link and discern the meaning of the page/site for yourself.
+
+__*"But there's too many links. I will never find the time to visit each one"*__
+
+How do you measure time? I have not even explored the Linkdumps section contained in this!. The Internet is a difficult, if not near-impossible beast to conquer. Perhaps you are able to set aside some hours to explore the links? This is not a silly game where I expect every person to fully digest the list upon first visit.
+
+[![...](http://f.cl.ly/items/42161a2n23111o2F2O0t/tip.png "Fund me on Gittip")](https://www.gittip.com/dhig/)
+
+__David Higgins__ is a web developer who contributes all his free time to The Open Web. He expects nothing in return for what he does, and sees any monetary reward as a bonus. With that said, he also runs on Coffee and Beer, which are expensive habits to maintain. So fund him on Gittip, and help David do what he does best.
+
+###[Donate - gittip.com/dhig](https://www.gittip.com/dhig/)
+
+- [higg.im](http://higg.im/)
+- [higg.tel](http://higg.tel/)
+- [public@higg.im](mailto:public@higg.im)
+
+![...](http://f.cl.ly/items/0E121z1x212X16091Y1k/s.png "...")
+
+__SERVICES / SaaS__
+- http://archive.is/
+- http://areyouahuman.com/ [:bird:](https://twitter.com/areyouahuman)
+- http://avatars.io/
+- http://beta.mural.ly/ [:bird:](https://twitter.com/mural)
+- http://bli.ms/
+- http://bottlenose.com/products [:bird:](https://twitter.com/bottlenoseapp)
+- http://boxjs.com/
+- http://buddypress.org/ [:bird:](https://twitter.com/buddypressdev)
+- http://carbonmade.com/ [:bird:](https://twitter.com/carbonmade)
+- http://cloudcmp.co/ [:bird:](https://twitter.com/cloudcmp)
+- http://daux.io/
+- http://dochub.io/
+- http://dropr.com/
+- http://epilogger.com/ [:bird:](https://twitter.com/epilogger)
+- http://fontello.com/
+- http://g.etfv.co/
+- http://gdriv.es/
+- http://getglue.com/ [:bird:](https://twitter.com/GetGlue)
+- http://gist.io/ [:bird:](https://twitter.com/idangazit)
+- http://gist-it.sudarmuthu.com/
+- http://hubpages.com/ [:bird:](https://twitter.com/HubPagesDotCom)
+- http://icomoon.io/ [:bird:](https://twitter.com/keyamoon)
+- http://imgops.com/
+- http://jetrank.com/tf/
+- http://jetstrap.com/ [:bird:](https://twitter.com/jetstrap)
+- http://koken.me/ [:bird:](https://twitter.com/koken)
+- http://loader.io/ [:bird:](https://twitter.com/loaderio)
+- http://mashajs.com/index_eng.html
+- http://memolane.com/
+- http://mixture.io/ [:bird:](https://twitter.com/TeamMixture)
+- http://mlkshk.com/ [:bird:](https://twitter.com/mlkshk)
+- http://nerdquery.com/
+- http://owncloud.org/providers/
+- http://pheedr.net/
+- http://pineapple.io/ [:bird:](https://twitter.com/pineappleio)
+- http://plancast.com/ [:bird:](https://twitter.com/plancast)
+- http://pretty-rfc.herokuapp.com/
+- http://readlists.com/ [:bird:](https://twitter.com/readlists)
+- http://readlists.com/ [:bird:](https://twitter.com/readlists)
+- http://scr.im/
+- http://searchpath.io/
+- http://slide.ly/
+- http://snag.gy/
+- http://snippi.com/
+- http://socrates.io/
+- http://staticloud.com/
+- http://tinyletter.com/ [:bird:](https://twitter.com/tinyletter)
+- http://unshort.me/
+- http://via.me/
+- http://vimeo-portfolio.heroku.com/?user=davidhiggins
+- http://wrttn.me/ [:bird:](https://twitter.com/wrttn)
+- http://www.cssminifier.com/
+- http://www.dreamwidth.org/
+- http://www.enthuse.me/ [:bird:](https://twitter.com/enthusedotme)
+- http://www.getloupe.com/
+- http://www.grumdrig.com/emoji-list/
+- http://www.moonfruit.com/ [:bird:](https://twitter.com/moonfruit)
+- http://www.pluss.es/
+- http://www.shoeboxify.com/
+- http://www.w3resource.com/ [:bird:](https://twitter.com/w3resource)
+- https://coderbits.com/ [:bird:](https://twitter.com/coderbits)
+- https://collections.me/
+- https://crocodoc.com/see-it-in-action/
+- https://entrydns.net/
+- https://feedbin.me/ [:bird:](https://twitter.com/feedbin)
+- https://findings.com/
+- https://gimmebar.com/
+- https://hackpad.com/ [:bird:](https://twitter.com/hackpad)
+- https://imo.im/
+- https://likeastore.com/
+- https://moot.it/ [:bird:](https://twitter.com/letsmoot)
+- https://roon.io/
+- https://www.makesets.com/
+- https://www.rootbuzz.com/
+- https://www.striking.ly/ [:bird:](https://twitter.com/simplystriking)
+- https://www.subtome.com/
+
+__EOPLE, INFLUENCERS, HACKERS, TINKERERS__
+- http://abrah.am/ [:bird:](https://twitter.com/abraham)
+- http://abrahamvegh.com/ [:bird:](https://twitter.com/abrahamvegh)
+- http://adamwhitcroft.com/ [:bird:](https://twitter.com/adamwhitcroft)
+- http://alexmaccaw.com/
+- http://andrewcantino.com/ [:bird:](https://twitter.com/tectonic)
+- http://andylavoy.com/about/ [:bird:](https://twitter.com/lavoy)
+- http://anton.kovalyov.net/ [:bird:](https://twitter.com/valueof)
+- http://blog.idered.pl/
+- http://bod.ge/
+- http://brad.is/ [:bird:](https://twitter.com/bdougherty)
+- http://braythwayt.com/ [:bird:](https://twitter.com/raganwald)
+- http://cdixon.org/ [:bird:](https://twitter.com/cdixon)
+- http://chrismessina.me/ [:bird:](https://twitter.com/chrismessina)
+- http://christina.is
+- http://daneden.me/
+- http://dbushell.com/ [:bird:](https://twitter.com/dbushell)
+- http://designpepper.com/about
+- http://dougbelshaw.com/blog/ [:bird:](https://twitter.com/dajbelshaw)
+- http://elliottkember.com/ [:bird:](https://twitter.com/elliottkember)
+- http://evanhahn.com/ [:bird:](https://twitter.com/EvanHahn)
+- http://evanyou.me/ [:bird:](https://twitter.com/youyuxi)
+- http://farhadi.ir/about/ [:bird:](https://twitter.com/farhadi)
+- http://frank.is/ [:bird:](https://twitter.com/franktisellano)
+- http://frankfuchs.net/ [:bird:](https://twitter.com/brainseller)
+- http://hsivonen.iki.fi/
+- http://icreateui.com/ [:bird:](https://twitter.com/shojberg)
+- http://jakiestfu.com/ [:bird:](https://twitter.com/jakiestfu)
+- http://jakiestfu.com/category/rants/
+- http://joeellis.la/
+- http://joelb.me/blog/
+- http://johndyer.name/ [:bird:](https://twitter.com/johndyer)
+- http://jonraasch.com/ [:bird:](https://twitter.com/jonraasch)
+- http://joshnh.com/
+- http://joshnh.com/weblog/
+- http://keith.so/ [:bird:](https://twitter.com/SmileyKeith)
+- http://kushagragour.in/ [:bird:](https://twitter.com/chinchang457)
+- http://lancepollard.com/ [:bird:](https://twitter.com/viatropos)
+- http://larsjung.de/ [:bird:](https://twitter.com/lrsjng)
+- http://lifes.gd/ [:bird:](https://twitter.com/joericho)
+- http://lorenzoverzini.com/ [:bird:](https://twitter.com/lorenzoverzini)
+- http://lovesgoodfood.com/jason/
+- http://madebyues.com [:bird:](https://twitter.com/iamues)
+- http://michaelwright.me/
+- http://miketaylr.com/
+- http://minimali.se/
+- http://monkeecreate.com/
+- http://monsur.hossa.in/ [:bird:](https://twitter.com/monsur)
+- http://nimbupani.com/ [:bird:](https://twitter.com/divya)
+- http://ot-crew.com/
+- http://papercavalier.com/ [:bird:](https://twitter.com/papercavalier)
+- http://paulmillr.com/ [:bird:](https://twitter.com/paulmillr)
+- http://paulrouget.com/e/jsterm/
+- http://petesmart.co.uk/
+- http://raganwald.com/ [:bird:](https://twitter.com/raganwald)
+- http://rog.ie/ [:bird:](https://twitter.com/rogie)
+- http://romainhuet.com/ [:bird:](https://twitter.com/romainhuet)
+- http://sstephenson.us/ [:bird:](https://twitter.com/sstephenson)
+- http://stpeter.im/ [:bird:](https://twitter.com/stpeter)
+- http://tantek.com/
+- http://taylorjasko.com/2012/07/tech-cores-v3-0-website/ [:bird:](https://twitter.com/tjasko)
+- http://theamazingweb.net/ [:bird:](https://twitter.com/_martinwolf)
+- http://tholman.com/ [:bird:](https://twitter.com/twholman)
+- http://tylerbuilds.co/ [:bird:](https://twitter.com/mbmufffin)
+- http://unhandled.com/ [:bird:](https://twitter.com/alexstamos)
+- http://web.lookout.net/
+- http://webreflection.blogspot.ie/ [:bird:](https://twitter.com/WebReflection)
+- http://www.arvidandersson.se/
+- http://www.breakingthin.gs/
+- http://www.dematte.at/
+- http://www.fffabs.com/ [:bird:](https://twitter.com/fffabs)
+- http://www.hagenburger.net/ [:bird:](https://twitter.com/hagenburger)
+- http://www.jacklmoore.com [:bird:](https://twitter.com/jacklmoore)
+- http://www.leebrimelow.com/
+- http://www.matthewkosloski.me/
+- http://www.mikezilla.com/
+- http://www.nico.im/
+- http://www.practicallyefficient.com/
+- http://www.tosh.at/
+- http://www.usabilitypost.com/ [:bird:](https://twitter.com/usabilitypost)
+- http://www.willgrounds.com/ [:bird:](https://twitter.com/willgrounds)
+- http://x-team.com/ [:bird:](https://twitter.com/x_team)
+- https://eeqj.com/
+- https://medium.com/@dpup [:bird:](https://twitter.com/Medium)
+- https://nicolas.perriault.net/
+- https://simon.bennett.im/
+
+__UI/UX/CSS3/DESIGN__
+- http://alexwolfe.github.io/Buttons/ [:bird:](https://twitter.com/alexwolfe)
+- http://artmoments.hu/
+- http://atmedia.info/
+- http://bartaz.github.com/sandbox.js/jquery.highlight.html [:bird:](https://twitter.com/bartaz)
+- http://beaker.mailchimp.com/inline-css
+- http://bjankord.github.io/Style-Guide-Boilerplate/ [:bird:](https://twitter.com/bjankord)
+- http://buildwithcraft.com/
+- http://butdoesitfloat.com/An-ampersand-or-epershand-is-a-logogram-representing-the-conjunction [:bird:](https://twitter.com/butdoesitfloat)
+- http://css3.pascal-seven.de/ [:bird:](https://twitter.com/Pascal_Seven)
+- http://css3ps.com/
+- http://css3watch.com/
+- http://csscience.com/placeholder/
+- http://cssdeck.com/labs/simple-love-buttons
+- http://css-tricks.com/examples/ImageReplacement/
+- http://designmodo.github.com/Flat-UI/
+- http://downloads.dvq.co.nz/ [:bird:](https://twitter.com/mattatdvq)
+- http://eddit.com/ [:bird:](https://twitter.com/eddit)
+- http://embedresponsively.com/
+- http://emojisymbols.com/ [:bird:](https://twitter.com/emojisymbols)
+- http://emwaw.me/
+- http://fico.lensco.be/
+- http://filetypeicons.com/
+- http://freebbble.com/ [:bird:](https://twitter.com/freebbble)
+- http://freshtilledsoil.github.com/champagne/
+- http://galleria.io/ [:bird:](https://twitter.com/galleriajs)
+- http://genericons.com/
+- http://getpocket.com/publisher/button
+- http://getpreboot.com/
+- http://graphicpeel.com/cssiosicons [:bird:](https://twitter.com/spiralstairs)
+- http://happyjs.com/
+- http://hellohappy.org/beautiful-web-type/ [:bird:](https://twitter.com/ubuwaits)
+- http://heydonworks.com/auticons-icon-font/ [:bird:](https://twitter.com/heydonworks)
+- http://hlvticons.ch/ [:bird:](https://twitter.com/Helveticons)
+- http://hoverstat.es/ [:bird:](https://twitter.com/hoverstates)
+- http://html.adobe.com/edge/webfonts/
+- http://icalialabs.github.io/furatto/components.html
+- http://icomoon.io/ [:bird:](https://twitter.com/keyamoon)
+- http://iconsweets2.com/
+- http://joeyvo.me/lensview/
+- http://jsfiddle.net/codef0rmer/wzpNB/embedded/result/
+- http://konigi.com/ [:bird:](https://twitter.com/konigi)
+- http://kushagragour.in/lab/hint/
+- http://labs.mitgux.com/smooth-scroll-to-top-using-css3-animations/ [:bird:](https://twitter.com/Mitgux)
+- http://livicons.com/
+- http://louisremi.github.com/menu-effects/
+- http://lucianmarin.com/peculiar/
+- http://luiszuno.com/blog/ [:bird:](https://twitter.com/ansimuz)
+- http://markdurrant.github.com/noisy-uris/
+- http://matthewkosloski.me/labs/pixem/
+- http://medialoot.com/ [:bird:](https://twitter.com/medialoot)
+- http://mindmup.github.io/bootstrap-wysiwyg/ [:bird:](https://twitter.com/mindmup)
+- http://oak.is/
+- http://pea.rs/
+- http://people.mozilla.com/~shorlander/ux-presentation/ux-presentation.html
+- http://pfefferle.github.com/openwebicons/ [:bird:](https://twitter.com/pfefferle)
+- http://placeit.breezi.com/productshots/
+- http://playground.deaxon.com/css/ [:bird:](https://twitter.com/bdc)
+- http://quoteunquoteapps.com/courierprime/ [:bird:](https://twitter.com/qapps)
+- http://ququplay.github.io/jquery-mobile-flat-ui-theme/
+- http://responsiveimages.org/ [:bird:](https://twitter.com/respimg)
+- http://simpleicons.org/
+- http://splashyfish.com/icons/
+- http://styleneat.com/index.php
+- http://symbolset.com/
+- http://typeplate.com/ [:bird:](https://twitter.com/typeplate)
+- http://usablica.github.com/front-end-frameworks/compare.html [:bird:](https://twitter.com/usablica)
+- http://ux.stackexchange.com/questions/4947/the-usability-of-lightbox-uis
+- http://visualidiot.com/articles/css3
+- http://weloveiconfonts.com/
+- http://www.90percentofeverything.com/
+- http://www.bariol.com/
+- http://www.blacknegative.com/
+- http://www.browserui.com/
+- http://www.clicktorelease.com/code/css3dclouds/
+- http://www.codebeautifier.com/
+- http://www.colors.commutercreative.com/grid/
+- http://www.cssminifier.com/
+- http://www.fess.me/ [:bird:](https://twitter.com/diou)
+- http://www.fluidsquares.com/
+- http://www.functionn.in/2012/11/the-best-free-iconic-web-fonts.html [:bird:](https://twitter.com/functionn_blog)
+- http://www.getuikit.com/ [:bird:](https://twitter.com/getuikit)
+- http://www.inserthtml.com/demo/css-loading-bar/
+- http://www.mybestworks.com/works/css_button_trick/
+- http://www.usabilitypost.com/ [:bird:](https://twitter.com/usabilitypost)
+- https://explodie.org/writings/stop-using-small-font-size.html
+- https://github.com/christiannaths/Redacted-Font
+- https://github.com/joscha/gmailui
+- https://github.com/kitcambridge/evil.js
+- https://github.com/star2dev/Google-plus-buttons
+
+__UNICODE / UTF8 / TEXT-ART__
+- http://0xcc.net/jsescape/
+- http://adamvarga.com/strike/
+- http://brajeshwar.github.com/entities/
+- http://character-code.com/emoticons-html-codes.php
+- http://copypastecharacter.com/iphone [:bird:](https://twitter.com/copypastechar)
+- http://en.wikipedia.org/wiki/Zero-width_space
+- http://fsymbols.com/
+- http://home.comcast.net/~caetools/unicode/unicode.html
+- http://meyerweb.com/eric/tools/dencoder/
+- http://overapi.com/unicode/
+- http://twiki.org/cgi-bin/view/Blog/BlogEntry201211x1
+- http://unicod.es/
+- http://unicodeheart.com/
+- http://wrttn.me/30dbfd/
+- http://www.emoji-cheat-sheet.com/
+- http://www.font.su/
+- http://www.grumdrig.com/emoji-list/
+- http://www.japaneseemoticons.net/all-japanese-emoticons/ [:bird:](https://twitter.com/jemoticons)
+- http://www.unicode.org/reports/tr36/
+- http://www.unicodemap.org/
+- http://xn--hashtag-jh84fa.tk/
+
+__SECURITY__
+- http://civicuk.com/cookie-law/cookie_configuration_v5 [:bird:](https://twitter.com/civicuk)
+- http://cookiecuttr.com/
+- http://cryptome.org/
+- http://disable-java.com/
+- http://faceless.me/
+- http://html5sec.org/
+- http://java-0day.com/
+- http://lcamtuf.coredump.cx/ [:bird:](https://twitter.com/lcamtuf)
+- http://owasp.org [:bird:](https://twitter.com/OWASP)
+- http://perishablepress.com/5g-blacklist-2013/ [:bird:](https://twitter.com/perishable)
+- http://securityxploded.com/firemaster.php [:bird:](https://twitter.com/securityxploded)
+- http://sleuthkit.org/autopsy/index.php
+- http://sourceforge.net/projects/waspap/files/waspap/Core/ [:bird:](https://twitter.com/sourceforge)
+- http://www.digital-evidence.org/papers/index.html
+- http://www.goldenfrog.com/vyprvpn
+- http://www.imperialviolet.org/
+- http://www.youtube.com/user/ChRiStIaAn008
+- https://github.com/metachris/wpscanner
+- https://panopticlick.eff.org/
+- https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet
+
+__FEEDBACK__
+- http://bugira.com/ [:bird:](https://twitter.com/bugiratracker)
+- http://intensedebate.com/
+- http://redpen.io/ [:bird:](https://twitter.com/redpenapp)
+- http://userecho.com/ [:bird:](https://twitter.com/userecho)
+- http://userrules.com/pricing [:bird:](https://twitter.com/userrules)
+- http://webengage.com/
+- http://www.criticue.com/
+- https://www.zopim.com/ [:bird:](https://twitter.com/zopim)
+
+__LINKDUMPS / ROUNDUPS / CURATED / CROWDSOURCED__
+- http://aaron.pk/bookmarks/ [:bird:](https://twitter.com/aaronpk)
+- http://adn.customwebapps.com/
+- http://appdevwiki.com/wiki/show/HomePage
+- http://bli.ms/
+- http://blog.reybango.com/the-big-list-of-javascript-css-and-html-development-tools-libraries-projects-and-books/ [:bird:](https://twitter.com/reybango)
+- http://cheeaun.github.io/hackerweb/ [:bird:](https://twitter.com/cheeaun)
+- http://cloudharmony.com/clouds [:bird:](https://twitter.com/cloudharmony)
+- http://component.jit.su/
+- http://distilledhype.com/ [:bird:](https://twitter.com/distilledhype)
+- http://domaintyper.com/top-websites
+- http://firespotting.com/
+- http://html5bookmarks.com/
+- http://jster.net/ [:bird:](https://twitter.com/jsterlibs)
+- http://kllktv.com/
+- http://monocle.io/
+- http://nerdi.net/
+- http://news.ycombinator.com/item?id=5235137
+- http://nylllon.com/ [:bird:](https://twitter.com/nylllon)
+- http://ot-crew.com/
+- http://pineapple.io/ [:bird:](https://twitter.com/pineappleio)
+- http://readlists.com/ [:bird:](https://twitter.com/readlists)
+- http://shitformakingwebsites.com/
+- http://sidebar.io/
+- http://thelist.io/
+- http://twitter.pbworks.com/w/page/1779741/Bots [:bird:](https://twitter.com/twittersecret)
+- http://usablica.github.com/front-end-frameworks/compare.html [:bird:](https://twitter.com/usablica)
+- http://wiki.thingsandstuff.org/JS_projects
+- http://wildwebwatch.com/liens.php [:bird:](https://twitter.com/HugoGiraudel)
+- http://www.agiledesigners.com/ [:bird:](https://twitter.com/agiledesigners)
+- http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources [:bird:](https://twitter.com/bootstraphero)
+- http://www.cloudli.st/ [:bird:](https://twitter.com/cloudlistapps)
+- http://www.cucumbernebula.com/blog/online-marketing-blogs/ [:bird:](https://twitter.com/cucumbernebula)
+- http://www.diigo.com/user/justjenfelice/webdesign [:bird:](https://twitter.com/diigo)
+- http://www.jsdb.io/
+- http://www.thewebblend.com/category/tools [:bird:](https://twitter.com/thewebblend)
+- http://www.webdesignerdepot.com/ [:bird:](https://twitter.com/DesignerDepot)
+- http://www.yearofmoo.com/code/ [:bird:](https://twitter.com/yearofmoo)
+- http://xuix.com/
+- https://github.com/bebraw/jswiki/wiki/File-Formats
+- https://lobste.rs/
+
+__FUN / SILLY / WHIMSICAL__
+- http://artmoments.hu/
+- http://chill.com/
+- http://connors.github.com/simple-user-styles/ [:bird:](https://twitter.com/connors)
+- http://craphound.com/wpspamdump.txt
+- http://dearmarissamayer.com/
+- http://dribbbleboard.com/
+- http://dyinglinks.com/
+- http://emergencycompliment.com/
+- http://fffff.at/fake-url-trolling/
+- http://fichtre.net/yop.html
+- http://fuckyeahpaganism.tumblr.com/
+- http://gianturl.com/
+- http://gifsound.com/
+- http://hadonejob.com/
+- http://hexu.al/
+- http://hhhhold.com/
+- http://hugepic.io/ [:bird:](https://twitter.com/hugepic)
+- http://icanhazip.com/
+- http://jqueery.com/
+- http://lab.hakim.se/forkit-js/
+- http://llanfairpwllgwyngyllgogerychwyrndrobwllllantysiliogogogo.ch/
+- http://lovebomb.me/
+- http://mrdiv.tumblr.com/ [:bird:](https://twitter.com/mattdivito)
+- http://photoshopetiquette.com/ [:bird:](https://twitter.com/psetiquette)
+- http://printstylesheet.com/ [:bird:](https://twitter.com/dbushell)
+- http://rainycafe.com/
+- http://rlemon.github.com/lememe/
+- http://sharebar.net/
+- http://sketchub.com/ykrzbycwej
+- http://therealmeaningof.com/
+- http://thisiswhyimbroke.com/
+- http://tldr.io/chrome-extension
+- http://toolong-didntread.com/ [:bird:](https://twitter.com/tldr_app)
+- http://tympanus.net/Tutorials/SwatchBook/index.html
+- http://urlte.am/
+- http://vastimg.herokuapp.com/
+- http://veli.ee/lab/csspacman/
+- http://visualidiot.com/articles/mailappapp
+- http://www.codingconfessional.com/
+- http://www.comicsanscriminal.com/
+- http://www.getworkdonemusic.com/
+- http://www.kurlak.com/john/source.html%E2%80%AD
+- http://www.loremipsum.net/pixelgif/
+- http://www.pugstagr.am/
+- http://www.tannr.com/herp-derp-youtube-comments/
+- http://www.theuselessweb.com/
+- http://www.unforgettable.dk/
+- http://www.yyyyyyy.info/
+- http://xn--hashtag-jh84fa.tk/
+- https://github.com/iamcal/PNGStore
+
+__FILESHARING__
+- http://boxjs.com/
+- http://dshr.es/
+- http://filecloud.io/
+- http://gdriv.es/
+- http://ge.tt/
+- http://getcloudapp.com/ [:bird:](https://twitter.com/cloudapp)
+- http://imm.io/
+- http://lulzimg.com/
+- http://min.us/
+- http://www.goldenfrog.com/dumptruck
+
+__PRODUCTIVITY__
+- http://excitedatom.com/dropin/ [:bird:](https://twitter.com/excited_atom)
+- http://five.sentenc.es/
+- http://thread.is/
+- http://unroll.me/ [:bird:](https://twitter.com/Unrollme)
+- http://www.getharvest.com/ [:bird:](https://twitter.com/harvest)
+- http://www.joukuu.com/welcome/
+- https://droplr.com/hello [:bird:](https://twitter.com/droplr)
+- https://thoughtback.com/ [:bird:](https://twitter.com/thoughtback)
+- https://www.appfog.com/products/phpfog/pricing/
+
+__JAVASCRIPT__
+- http://amsul.github.com/pickadate.js/ [:bird:](https://twitter.com/amsul_)
+- http://arcturo.github.com/library/coffeescript/02_syntax.html
+- http://attardi.org/labels/
+- http://bartaz.github.com/sandbox.js/jquery.highlight.html [:bird:](https://twitter.com/bartaz)
+- http://benpickles.github.com/peity/
+- http://borbit.github.com/tiler/ [:bird:](https://twitter.com/borbit)
+- http://boxjs.com/
+- http://brad.is/coding/BigScreen/
+- http://brutaldesign.github.com/swipebox/ [:bird:](https://twitter.com/brutaldesign)
+- http://cdnjs.com/
+- http://cloudfour.github.io/hideShowPassword/
+- http://codebomber.com/jquery/slidepanel/ [:bird:](https://twitter.com/egdelwonk)
+- http://codepen.io/ [:bird:](https://twitter.com/CodePen)
+- http://codepen.io/tpatch/pen/kcCfI
+- http://craig.is/killing/mice
+- http://craig.is/riding/gators
+- http://danielrapp.github.io/fragment.js/ [:bird:](https://twitter.com/danielrapp)
+- http://daniemon.com/blog/bootstrap-without-jquery/
+- http://darkskyapp.github.io/skycons/
+- http://darsa.in/sly/ [:bird:](https://twitter.com/Darsain)
+- http://dimsemenov.com/plugins/magnific-popup/ [:bird:](https://twitter.com/dimsemenov)
+- http://domenlightenment.com/
+- http://dropthebit.com/demos/photobox/
+- http://epeli.github.com/underscore.string/
+- http://evanhahn.com/doing-without-jquery/ [:bird:](https://twitter.com/EvanHahn)
+- http://exacttarget.github.com/fuelux/ [:bird:](https://twitter.com/ETfuel)
+- http://filamentgroup.com/lab/socialcount
+- http://fittextjs.com/
+- http://garlicjs.org/
+- http://gist-it.sudarmuthu.com/
+- http://github.hubspot.com/jquery-zoomer/
+- http://github.hubspot.com/messenger/
+- http://gmap.nurtext.de/examples.html [:bird:](https://twitter.com/jquery_gmap)
+- http://host.sonspring.com/portlets/
+- http://html5tpl.com/
+- http://html5weekly.com/archive/55.html
+- http://instafeedjs.com/
+- http://ivaynberg.github.com/select2/
+- http://jakiestfu.github.com/Mention.js/
+- http://johnpolacek.github.com/superscrollorama/ [:bird:](https://twitter.com/johnpolacek)
+- http://jpanelmenu.com/ [:bird:](https://twitter.com/acolangelo)
+- http://jquerypp.com/ [:bird:](https://twitter.com/jquerypp)
+- http://js.gd/
+- http://jschr.github.com/textillate/
+- http://jscroll.com/
+- http://julianlam.github.com/tabIndent.js/
+- http://kayschneider.github.com/pinbox/
+- http://keithcirkel.co.uk/jwerty/ [:bird:](https://twitter.com/keithamus)
+- http://kerningjs.com/
+- http://kinesis.io/examples/touch-effects/
+- http://kushagragour.in/lab/isoblocks/
+- http://labs.voronianski.com/jquery.avgrund.js/
+- http://leafletjs.com/ [:bird:](https://twitter.com/LeafletJS)
+- http://micjamking.github.io/succinct/ [:bird:](https://twitter.com/micjamking)
+- http://mindmup.github.io/bootstrap-wysiwyg/ [:bird:](https://twitter.com/mindmup)
+- http://mixitup.io/
+- http://mojotech.github.com/stickymojo/
+- http://mozilla.github.com/x-tag/
+- http://mtkopone.github.io/zelect/
+- http://nick-jonas.github.io/imageloader/
+- http://noraesae.github.com/perfect-scrollbar/
+- http://numeraljs.com/
+- http://oosmoxiecode.github.com/examples/xgui.js/testbed.html
+- http://paulkinzett.github.com/toolbar/
+- http://pinesframework.org/pnotify/
+- http://progressarc.clairesosset.fr/
+- http://promisesaplus.com/
+- http://prototype-window.xilinus.com/PWC-OS/
+- http://reactiveraven.github.io/jqBootstrapValidation/ [:bird:](https://twitter.com/ReactiveRaven)
+- http://remy.bach.me.uk/superlabels_demo/
+- http://ryejs.com/
+- http://scrollnav.com/
+- http://sequencejs.com/ [:bird:](https://twitter.com/IanLunn)
+- http://sketch.evanyou.me/
+- http://snackjs.com/
+- http://socialitejs.com/ [:bird:](https://twitter.com/dbushell)
+- http://ssssnakes.com/smoke/
+- http://sticky-element.com/
+- http://substack.net/weaning_yourself_off_jquery
+- http://suprb.com/apps/nested/ [:bird:](https://twitter.com/suprb)
+- http://tech.pro/tutorial/1385/out-growing-jquery [:bird:](https://twitter.com/techdotpro)
+- http://toki-woki.net/lab/long-press/
+- http://tolgaergin.com/files/social/index.html [:bird:](https://twitter.com/tolgaergin)
+- http://tracelytics.github.com/pageguide/
+- http://tweet.seaofclouds.com/
+- http://underscorejs.org/
+- http://vanilla-masonry.desandro.com/docs/intro.html
+- http://webdesignerwall.com/demo/html5-grayscale/
+- http://webpop.github.com/jquery.pin/
+- http://whatkey.net/
+- http://willemmulder.github.com/FilteredPaste.js/
+- http://wtfjs.com/2013/02/21/why-am-i-a-number
+- http://www.456bereastreet.com/lab/whitespace-around-text-fields/
+- http://www.berriart.com/sidr/
+- http://www.bestjquery.com/ [:bird:](https://twitter.com/bestjqueryweb)
+- http://www.class.pm/projects/jquery/classysocial/
+- http://www.datatables.net/
+- http://www.dreamtemplate.com/dreamcodes/documentation/tweet.html
+- http://www.dropzonejs.com/
+- http://www.eyecon.ro/bootstrap-datepicker/
+- http://www.fancybox.net/
+- http://www.frescojs.com/
+- http://www.html5libs.com/
+- http://www.iamcal.com/png-store/
+- http://www.jacklmoore.com/zoom [:bird:](https://twitter.com/jacklmoore)
+- http://www.jqueryscript.net/animation/jQuery-Plugin-For-Toggling-Elements-with-Transform-Effect-betterToggle.html [:bird:](https://twitter.com/jqueryscript)
+- http://www.jsdb.io/
+- http://www.matiasmancini.com.ar/ajax-jquery-validation-html5-form.html
+- http://www.scriptcam.com/
+- http://xing.github.com/wysihtml5/
+- http://xregexp.com/
+- http://zenorocha.github.io/jquery-github/
+- https://5apps.com/ [:bird:](https://twitter.com/5apps)
+- https://github.com/beriberikix/vanillajsf.tw
+- https://github.com/gfranko/jquery.tocify.js
+- https://github.com/joelarson4/CharFunk
+- https://github.com/kylebarrow/chibi
+- https://github.com/ququplay/jquery-mobile-flat-ui-theme
+- https://github.com/tosbourn/nojs-socialshare
+- https://kippt.com/jg/javascript
+- https://www.quora.com/JavaScript/What-is-the-best-JavaScript-libraries-for-web-UI-development
+
+__CDN__
+- http://boxjs.com/
+- http://cdnjs.com/
+- http://maxcdn.com/ [:bird:](https://twitter.com/MaxCDN)
+- http://tinycdn.com/
+- http://www.bootstrapcdn.com/
+- http://www.cdn77.com/ [:bird:](https://twitter.com/CDN77com)
+- http://www.cdnconnect.com/ [:bird:](https://twitter.com/CDNConnect)
+- http://www.cloudcache.com/ [:bird:](https://twitter.com/cloudcachecdn)
+- http://www.impressjscdn.com/ [:bird:](https://twitter.com/NetDNADeveloper)
+- http://www.jsdelivr.com/
+- http://www.netdna.com/ [:bird:](https://twitter.com/NetDNA)
+- http://www.speedawarenessmonth.com/
+
+__ACTIVISM / MOVEMENTS / INITIATIVES__
+- http://aaronsw.archiveteam.org/
+- http://artlibre.org/licence/lal/en
+- http://briks.si/
+- http://dearmarissamayer.com/
+- http://disable-java.com/
+- http://do-good.io/
+- http://futurefriend.ly/
+- http://generatedcontent.org/post/37949105556/updateyourcss3 [:bird:](https://twitter.com/dstorey)
+- http://internetdefenseleague.org/ [:bird:](https://twitter.com/Defense_League)
+- http://iworkfortheinternet.org/
+- http://justinjackson.ca/words.html
+- http://programming-motherfucker.com/
+- http://relogo.org/
+- http://responsiveimages.org/ [:bird:](https://twitter.com/respimg)
+- http://www.internetdeclaration.org/freedom
+- http://www.kopimi.com/kopimi/
+- http://www.savetheinternet.com/ [:bird:](https://twitter.com/freepress)
+- http://www.webrtc.org/
+- https://github.com/samsquire/ideas
+
+__UTILS__
+- http://0xcc.net/jsescape/
+- http://filamentgroup.com/lab/socialcount
+- http://nerdquery.com/
+- http://rdfa.info/play/
+- http://showw.me/signup
+- http://subsimple.com/bookmarklets/jsbuilder.htm
+- http://validator.w3.org/checklink
+- http://webdevchecklist.com/
+- http://www.cssminifier.com/
+- http://www.google.com/webmasters/tools/richsnippets
+- http://www.one-tab.com/
+- https://coderwall.com/p/lhsrcq
+- https://hackpad.com/ [:bird:](https://twitter.com/hackpad)
+- https://rawgithub.com/
+- https://search.nerdydata.com/
+- https://write-box.appspot.com/
+- http://crossrider.com/ [:bird:](https://twitter.com/crossrider)
+- http://heckyesmarkdown.com/
+- http://matthewkosloski.me/labs/pixem/
+- http://placeit.breezi.com/productshots/
+- http://www.apiforthat.com/ [:bird:](https://twitter.com/apiforthat)
+- http://www.downforeveryoneorjustme.com/
+- http://www.sac.sk/files.php?d=7&l=L
+- http://www.theopendisc.com/
+- https://textbox.io/
+- https://www.markupvalidator.com/top100/errors
+
+__GITHUB__
+- http://alpha.gisti.es/
+- http://bl.ocks.org/
+- http://codemontage.com/ [:bird:](https://twitter.com/CodeMontage)
+- http://ost.io/
+- http://www.gitalist.com/
+- http://zenorocha.github.io/jquery-github/
+- https://github.com/diy/jquery-emojiarea
+
+__PHP__
+- http://fortrabbit.com/ [:bird:](https://twitter.com/fortrabbit)
+- http://microphp.org/code.html
+- http://miniflux.net/ [:bird:](https://twitter.com/MinifluxReader)
+- http://selfoss.aditu.de/
+- http://shauninman.com/archive/2009/08/17/less_n [:bird:](https://twitter.com/shauninman)
+- http://www.directorylister.com/ [:bird:](https://twitter.com/directorylister)
+- https://github.com/trey/lifestream
+
+__PASTEBINS / CODEBINS__
+- http://codepen.io/ [:bird:](https://twitter.com/CodePen)
+- http://dabblet.com/
+- http://fiddlesalad.com/ [:bird:](https://twitter.com/fiddle_salad)
+- http://jsbin.com/ [:bird:](https://twitter.com/js_bin)
+- http://jsdo.it/ [:bird:](https://twitter.com/jsdo_it)
+- http://jsfiddle.net/ [:bird:](https://twitter.com/jsfiddle)
+- http://plunker.no.de/
+- http://stackednotion.com/shortly/
+- http://www.zenpen.io/
+- https://ezcrypt.it/
+- https://paste.sh
+- https://thimble.webmaker.org
+
+__MOBILE__
+- http://textbelt.com/
+- https://www.sendhub.com/
+- http://quojs.tapquo.com/ [:bird:](https://twitter.com/quojs)
+- http://maker.github.com/ratchet/ [:bird:](https://twitter.com/GoRatchet)
+- http://futurefriend.ly/
+
+__SOCIAL MEDIA__
+- http://activitystrea.ms/
+- http://buddycloud.com/ [:bird:](https://twitter.com/buddycloud)
+- http://checkthis.com/ [:bird:](https://twitter.com/checkthis)
+- http://filamentgroup.com/lab/socialcount
+- http://hull.io/
+- http://identi.ca/
+- http://kred.com/widgets
+- http://pump.io/
+- http://reading.am/ [:bird:](https://twitter.com/reading)
+- http://rockmelt.com/
+- http://sharedby.co/ [:bird:](https://twitter.com/SharedBy)
+- http://showw.me/signup
+- http://slim.io/
+- http://tolgaergin.com/files/social/index.html [:bird:](https://twitter.com/tolgaergin)
+- http://www.alianzo.com/
+- http://www.linksalpha.com/ [:bird:](https://twitter.com/linksalpha)
+- http://www.po.st/ [:bird:](https://twitter.com/po_st)
+- http://www.youtube.com/trendsdashboard
+- https://imo.im/
+- https://tent.is/
+
+__MONEYMAKING / DONATIONS / MICROFUNDING__
+- http://pledgie.com/ [:bird:](https://twitter.com/pledgie)
+- http://sellboxhq.com/ [:bird:](https://twitter.com/sellboxhq)
+- http://tinypay.me/
+- http://tiptheweb.org/ [:bird:](https://twitter.com/tiptheweb)
+- http://workingnotworking.com/ [:bird:](https://twitter.com/wnotw)
+- http://www.duetapp.com/home [:bird:](https://twitter.com/23andWalnut)
+- https://coinfly.com/ [:bird:](https://twitter.com/coinfly)
+- https://juiiicy.com/
+- https://tictail.com/ [:bird:](https://twitter.com/tictail)
+- https://www.gittip.com/ [:bird:](https://twitter.com/gittip)
+- https://www.wepay.com/payment-buttons
+- https://flattr.com/dashboard
+
+__TRACKING+ANALYTCS__
+- http://get.gaug.es/
+- http://gosquared.com/ [:bird:](https://twitter.com/GoSquared)
+- http://www.crazyegg.com/ [:bird:](https://twitter.com/CrazyEgg)
+- http://www.inspectlet.com/ [:bird:](https://twitter.com/inspectlet)
+- https://mixpanel.com/
+
+__RESOURCES__
+- http://arcturo.github.com/library/coffeescript/02_syntax.html
+- http://breakthepage.com/
+- http://devdocs.io/html/article
+- http://html5snippets.com/
+- http://taitems.github.com/Front-End-Development-Guidelines [:bird:](https://twitter.com/taitems)
+- http://unitscale.com/mb/bomb-in-the-garden/
+- http://webdatacommons.org/
+- http://webdesign.tutsplus.com/articles/general/seo-checklist/ [:bird:](https://twitter.com/wdtuts)
+- http://www.blindfiveyearold.com/crawl-optimization [:bird:](https://twitter.com/ajkohn)
+- http://www.bypeople.com/ [:bird:](https://twitter.com/webdesignshock)
+
+__DOMAINS__
+- http://domai.nr/
+- http://domaintyper.com/top-websites
+- http://hover.com/ [:bird:](https://twitter.com/hover)
+- http://instantname.me/
+- http://ovh.de/
+- http://ovh.ie/
+- http://uni.me/
+- http://www.frankdomains.com/ [:bird:](https://twitter.com/frankdomains)
+- http://www.gandi.net/ [:bird:](https://twitter.com/gandi_net)
+- https://iwantmyname.com/ [:bird:](https://twitter.com/iWantMyName)
+
+__REFERENCE__
+- http://adamwhitcroft.com/apaxy/ [:bird:](https://twitter.com/adamwhitcroft)
+- http://adblockplus.org/en/acceptable-ads [:bird:](https://twitter.com/adblockplus)
+- http://disable-java.com/
+- http://dochub.io/
+- http://feeding.cloud.geek.nz/posts/prefetching-resources-to-prime-browser/ [:bird:](https://twitter.com/fmarier)
+- http://gossmati.ca/blog/avoiding-tco/
+- http://localwiki.org/
+- http://mastersofmedia.hum.uva.nl/
+- http://readlists.com/ [:bird:](https://twitter.com/readlists)
+- http://snipplr.com/all/language/javascript [:bird:](https://twitter.com/Snipplr)
+- http://storify.com/rem/chromeless-webapps/elements/4f730be6e0da5d495925acbd [:bird:](https://twitter.com/storify)
+- http://swik.net/
+- http://taitems.github.com/Front-End-Development-Guidelines/ [:bird:](https://twitter.com/taitems)
+- http://webdesign.tutsplus.com/articles/general/seo-checklist/ [:bird:](https://twitter.com/wdtuts)
+- http://www.apihub.com/ [:bird:](https://twitter.com/apihub)
+- http://www.copyblogger.com/commonly-misused-words/ [:bird:](https://twitter.com/copyblogger)
+- http://www.organizedwonder.com/ [:bird:](https://twitter.com/organizedwonder)
+- http://www.sputtr.com/
+- http://www.techsupportguides.com/what-is-a-bookmarklet/
+- http://www.w3resource.com/ [:bird:](https://twitter.com/w3resource)
+- http://www.yearofmoo.com/code/ [:bird:](https://twitter.com/yearofmoo)
+- https://github.com/samsquire/ideas
+- https://github.com/thomasdavis/best-practices
+
+__TWITTER__
+- http://birdtold.me/connect.php
+- http://chrissimpkins.github.io/tweetledee/index.html
+- http://jetrank.com/tf/
+- http://listoftweets.com/
+- http://lottatweets.com/
+- http://muffinlabs.com/2012/06/04/the-current-state-of-bots-on-twitter/
+- http://nurph.com/
+- http://pluck.attasi.com/ [:bird:](https://twitter.com/attasi)
+- http://tweetshrink.com/
+- http://twitter.pbworks.com/w/page/1779741/Bots [:bird:](https://twitter.com/twittersecret)
+- http://twubs.com/ [:bird:](https://twitter.com/twubs)
+- http://unfollowers.me/ [:bird:](https://twitter.com/unfollowersme)
+- http://www.dmcleaner.com/
+- http://www.exquisitetweets.com/
+- http://www.savepublishing.com/
+- http://www.socialmention.com/
+- http://www.tweetdelete.net/
+- https://followgen.com/
