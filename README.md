@@ -18,11 +18,11 @@ __*"But there's too many links. I will never find the time to visit each one"*__
 
 How do you measure time? I have not even explored the Linkdumps section contained in this!. The Internet is a difficult, if not near-impossible beast to conquer. Perhaps you are able to set aside some hours to explore the links? This is not a silly game where I expect every person to fully digest the list upon first visit.
 
-[![...](http://f.cl.ly/items/42161a2n23111o2F2O0t/tip.png "Fund me on Gittip")](https://www.gittip.com/dhig/)
+[![...](http://f.cl.ly/items/42161a2n23111o2F2O0t/tip.png "Fund me on Gittip")](https://www.gittip.com/SoHiggo//)
 
 
 
-###[Donate - gittip.com/dhig](https://www.gittip.com/dhig/)
+###[Donate - gittip.com/dhig](https://www.gittip.com/SoHiggo//)
 
 - [higg.im](http://www.higg.im/)
 - [higg.tel](http://higg.tel/)
