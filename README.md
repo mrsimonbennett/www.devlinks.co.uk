@@ -22,7 +22,7 @@ How do you measure time? I have not even explored the Linkdumps section containe
 
 
 
-###[Donate - gittip.com/dhig](https://www.gittip.com/SoHiggo//)
+###[Donate - gittip.com/SoHiggo](https://www.gittip.com/SoHiggo//)
 
 - [higg.im](http://www.higg.im/)
 - [higg.tel](http://higg.tel/)
@@ -80,7 +80,7 @@ __SERVICES / SaaS__
 - http://tinyletter.com/ [:bird:](https://twitter.com/tinyletter)
 - http://unshort.me/
 - http://via.me/
-- http://vimeo-portfolio.heroku.com/?user=davidhiggins
+- http://vimeo-portfolio.heroku.com/?user=daviSoHiggogins
 - http://wrttn.me/ [:bird:](https://twitter.com/wrttn)
 - http://www.cssminifier.com/
 - http://www.dreamwidth.org/
