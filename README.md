@@ -193,7 +193,7 @@ __EOPLE, INFLUENCERS, HACKERS, TINKERERS__
 - https://eeqj.com/
 - https://medium.com/@dpup [:bird:](https://twitter.com/Medium)
 - https://nicolas.perriault.net/
-- https://simon.bennett.im/
+- https://simon.bennett.im/ [:bird:](https://twitter.com/MrSimonBennett)
 
 __UI/UX/CSS3/DESIGN__
 - http://alexwolfe.github.io/Buttons/ [:bird:](https://twitter.com/alexwolfe)
